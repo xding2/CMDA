@@ -118,8 +118,9 @@ python ecohealth_classification.py  # For health assessment
 ```
 
 ## Model Performance Highlights
-- **TASK1 - TimeBERT Accuracy**: 0.716
-- **TASK2 - TimeBERT R2**: 0.698
+- **TASK1 (classification) - TimeBERT Accuracy**: 0.716
+- **TASK2 (regression) - TimeBERT R2**: 0.698
+- **TASK3 (classification) - TimeBERT Accuracy**: 0.837
 
 ## Future Work
 1. Integration of additional environmental parameters
