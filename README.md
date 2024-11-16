@@ -14,8 +14,9 @@ This repository contains two advanced deep learning models for environmental mon
 - **Multi-dimensional Analysis**: Processing multiple interrelated environmental metrics simultaneously
 
 ### Research Questions
-1. How can we leverage transformer architectures for environmental time series prediction?
-2. Can BERT-based models effectively capture seasonal and temporal patterns in air quality data?
+
+1. Can BERT-based models effectively capture seasonal and temporal patterns in air quality data?
+2. How can we leverage transformer architectures for environmental time series prediction?
 3. TBD
 
 ## Models Architecture
